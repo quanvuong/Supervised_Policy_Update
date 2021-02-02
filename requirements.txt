@@ -3,7 +3,7 @@ appnope==0.1.0
 asn1crypto==0.24.0
 astor==0.6.2
 atari-py==0.1.1
-bleach==1.5.0
+bleach==3.3.0
 certifi==2018.8.13
 cffi==1.11.4
 chardet==3.0.4
