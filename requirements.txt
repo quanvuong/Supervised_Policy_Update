@@ -88,7 +88,7 @@ pyparsing==2.2.0
 PySocks==1.6.8
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==16.0.3
 qtconsole==4.3.1
 regex==2017.11.9
