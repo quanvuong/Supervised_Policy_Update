@@ -62,7 +62,7 @@ msgpack-python==0.4.8
 mujoco-py==1.50.1.43
 murmurhash==0.28.0
 namedlist==1.7
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbformat==4.4.0
 notebook==5.3.1
 numba==0.38.1+1.gc42707d0f.dirty
